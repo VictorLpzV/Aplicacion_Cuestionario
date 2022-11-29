@@ -1,0 +1,112 @@
+
+    data = [
+        {
+            "question": "¿Cuál es el país más grande del mundo?",
+            "answers": {
+                "a": "Canadá",
+                "b": "Rusia",
+                "c": "China",
+                "d": "Estados Unidos"
+            },
+            "correctAnswer": "b"
+        },
+        {
+            "question": "¿Cuál es el único país de america latína con el color morado en su bandera?",
+            "answers": {
+                "a": "Guatemala",
+                "b": "Ecuador",
+                "c": "Nicaragua",
+                "d": "El salvador"
+            },
+            "correctAnswer": "c"
+        },
+        
+        {
+            "question": "¿En que continente se encuentra ubicado la República Democrática Federal de Etiopía?",
+            "answers": {
+                "a": "Asia",
+                "b": "África",
+                "c": "Oceanía",
+                "d": "Europa"
+            },
+            "correctAnswer": "b"
+        },
+    
+        {
+            "question": "¿Qué paises constituyen la frontera más larga del mundo?",
+            "answers": {
+                "a": "Rusia y China",
+                "b": "Argetina y Chile",
+                "c": "Brasil Y Argentina",
+                "d": "Estados Unidos y Canadá"
+            },
+            "correctAnswer": "d"
+        },
+    
+        {
+            "question": "¿Con qué paises colinda Colombia?",
+            "answers": {
+                "a": "Panamá, Ecuador, Venezuela, Brazil y Perú",
+                "b": "Ecuador, Venezuela, Brasil y Bolivia",
+                "c": "Panamá, Ecuador, Bolivia Y Perú",
+                "d": "Perú, Panamá, Venezuela y Ecuador"
+            },
+            "correctAnswer": "a"
+        },
+    
+        {
+            "question": "¿Qué país de sudamerica no tiene frontera con Brasil?",
+            "answers": {
+                "a": "Bolivia",
+                "b": "Ecuador",
+                "c": "Venezuela",
+                "d": "Paraguay"
+            },
+            "correctAnswer": "b"
+        },
+    
+        {
+            "question": "¿Qué país tiene el mayor número de piramides?",
+            "answers": {
+                "a": "México",
+                "b": "Egipto",
+                "c": "Sudán",
+                "d": "Israel"
+            },
+            "correctAnswer": "c"
+        },
+    
+        {
+            "question": "¿Qué país se encuentra entre 2 continentes?",
+            "answers": {
+                "a": "China",
+                "b": "Ucrania",
+                "c": "Turquía",
+                "d": "Líbano"
+            },
+            "correctAnswer": "c"
+        },
+    
+        {
+            "question": "¿Cuántos países forman parte de la Unión Europea?",
+            "answers": {
+                "a": "27 paises",
+                "b": "26 paises",
+                "c": "29 paises",
+                "d": "31 paises"
+            },
+            "correctAnswer": "a"
+        },
+    
+        {
+            "question": "¿Cuál es la capital de Canadá?",
+            "answers": {
+                "a": "Toronto",
+                "b": "Vancouber",
+                "c": "Ottawa",
+                "d": "Montreal"
+            },
+            "correctAnswer": "c"
+        }
+    ];
+    

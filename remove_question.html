@@ -1,0 +1,43 @@
+<html>
+  <head>
+    <title>Quiz Bank Editor</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" media="screen" href="css/app.css" />
+    <script type="text/javascript" src="json/questions.json"></script>
+  </head>
+  <body>
+    <div id="header">
+      <h1>Quiz Bank<br />Borrar Preguntas</h1>
+      <span id="menu"></span>
+      <div id="menubox" style="display: none">
+        <br /><a href="quiz_app.html" alt="back to quiz" title="back to quiz">
+          Regresar al cuestionario </a
+        ><br /><br />
+        <a
+          href="add_question.html"
+          alt="add questions"
+          title="add questions"
+        >
+          Añadir Preguntas
+        </a>
+        <span id="menudismiss"> X </span>
+      </div>
+    </div>
+    <div class="wrapper">
+      <label class="formLabel">Question Bank:</label><br />
+
+      
+      <div id="showQstn"></div>
+      <br /><br />
+      <button id="removeQuestions"><p>Borrar Pregunta</p></button
+      ><br /><br /><br />
+      <button id="saveQuestions"><p>Guardar  cuestionario</p></button>
+    </div>
+    <div id="footer2">
+      <h5>Writen by Victor López &copy; Copyright Nov 2022</h5>
+    </div>
+    <script src="js/removequestions.js"></script>
+    <script src='js/menu.js'></script>
+  </body>
+</html>
